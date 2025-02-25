@@ -159,6 +159,3 @@ Welcome, adventurer! 🎒 Get ready to explore the amazing world of Stellar thro
 ## 🎉 Good luck on your Stellar Quest journey! 🚀
 
 Have fun, learn a lot, and earn those badges! 🎒🌟
-Copy
-Try Again
-Share
