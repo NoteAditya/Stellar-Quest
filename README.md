@@ -12,7 +12,7 @@ Welcome, adventurer! 🎒 Get ready to explore the amazing world of Stellar thro
 6. [Quest 6: Account Merge](#%EF%B8%8F-quest-6-account-merge)
 7. [Quest 7: Manage Data](#-quest-7-manage-data)
 8. [Quest 8: Set Options - Home Domain](#-quest-8-set-options---home-domain)
-9. [Quest 9: Set Options - Weights, Thresholds, and Signers](#-quest-9-set-options-weights-thresholds-and-signers)
+9. [Quest 9: Set Options - Weights, Thresholds, and Signers](#%EF%B8%8F-quest-9-set-options---weights-thresholds-and-signers)
 
 ## 🛠️ Prerequisites
 
