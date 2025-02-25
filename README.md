@@ -4,7 +4,7 @@ Welcome, adventurer! 🎒 Get ready to explore the amazing world of Stellar thro
 
 ## 📜 Table of Contents
 
-1. [Quest 1: Create Account](#quest-1-create-account)
+1. [Quest 1: Create Account](#-quest-1-create-account)
 2. [Quest 2: Payment](#quest-2-payment)
 3. [Quest 3: Change Trust (Trustline)](#quest-3-change-trust-trustline)
 4. [Quest 4: Manage Offer](#quest-4-manage-offer)
