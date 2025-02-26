@@ -1,0 +1,51 @@
+# 🚀 Step-by-Step Guide to Completing the Stellar Bump Sequence Quest
+
+## Overview
+Hey there, Stellar wizard-in-training! 🧙‍♂️ You've handled the basics, but now it's time to dive into the mystical world of sequence numbers with the Bump Sequence quest. This quest will teach you how to skip ahead in the sequence numbers of your account. Ready to bend the rules of time? Let's go! ⏳
+
+## Step 1: Set Up Your Quest Account
+1. **Ensure Quest Account is Funded**:
+   - Make sure your Quest Account has enough XLM to cover transaction fees.
+   - You can fund it using the "Fund" button in the [Stellar Laboratory](https://www.stellar.org/laboratory/).
+
+## Step 2: Construct the Bump Sequence Transaction
+1. **Navigate to Build Transaction** in the Laboratory.
+2. **Bump Sequence Operation**:
+   - **Source Account**: Quest Account’s public key
+   - **Bump To**: Choose a future sequence number (e.g., if current is 0, bump to 5)
+3. **Sign & Submit** using the Quest Account’s secret key.
+
+## Step 3: Construct a New Transaction from the Bumped Sequence
+1. **New Transaction**:
+   - **Source Account**: Quest Account’s public key
+   - **Operation**: Choose any operation (e.g., Payment, Manage Data)
+   - **Sequence Number**: Use the bumped-to sequence number (e.g., 5)
+2. **Sign & Submit** this new transaction using the Quest Account’s secret key.
+
+## Step 4: Verify and Collect Your Badge
+1. **Check the Quest Screen**: Return to Stellar Quest Learn and click "Verify".
+2. **Claim Your Badge**: Congrats! You’ve successfully manipulated sequence numbers! 🎯
+
+## 🛠️ Troubleshooting Tips
+- **Transaction Failed?**:
+  - Double-check the sequence number and ensure it's correct.
+  - Ensure the account has enough XLM to cover the transaction fee.
+- **Stuck?** Join the [Stellar Quest Discord](https://discord.gg/stellar) for help!
+
+## 📚 Relevant Resources
+- [Stellar Laboratory](https://www.stellar.org/laboratory/)
+- [Stellar Expert](https://stellar.expert/)
+- [Join Stellar Developer Commuinity](https://discord.com/invite/stellardev)
+- [Stellar Documentation](https://developers.stellar.org/docs/)
+- [Create Account Keypair](https://lab.stellar.org/account/create)
+
+## 🎯 Example Scenarios (Optional Reading)
+**Scenario: Turtle Racing Bets**
+- Current sequence number: 0
+- Scenario 1 (Speedy wins): Sequence number 5, pay Buster
+- Scenario 2 (Snappy wins): Sequence number 10, pay Wade
+- Use Bump Sequence to choose which scenario to validate based on the race outcome.
+
+**Note**: Be cautious! The maximum sequence number is 9,223,372,036,854,775,807. Hitting this limit will freeze your account forever. 🚫
+
+Good luck, sequence ninja! 🧘‍♂️ You’ve got this!
