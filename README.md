@@ -13,12 +13,12 @@ Welcome, adventurer! 🎒 Get ready to explore the amazing world of Stellar thro
 7. [Quest 7: Manage Data](#-quest-7-manage-data)
 8. [Quest 8: Set Options - Home Domain](#-quest-8-set-options---home-domain)
 9. [Quest 9: Set Options - Weights, Thresholds, and Signers](#%EF%B8%8F-quest-9-set-options---weights-thresholds-and-signers)
-10. [Quest 10: Set Flags](#quest-10-set-flags)
-11. [Quest 11: Bump Sequence](#quest-11-bump-sequence)
-12. [Quest 12: Sponsorships](#quest-12-sponsorships)
-13. [Quest 13: Claimable Balances](#quest-13-claimable-balances)
-14. [Quest 14: Clawbacks](#quest-14-clawbacks)
-15. [Quest 15: Liquidity Pools](#quest-15-liquidity-pools)
+10. [Quest 10: Set Flags](#-quest-10-set-flags)
+11. [Quest 11: Bump Sequence](#-quest-11-bump-sequence)
+12. [Quest 12: Sponsorships](#-quest-12-sponsorships)
+13. [Quest 13: Claimable Balances](#-quest-13-claimable-balances)
+14. [Quest 14: Clawbacks](#-quest-13-claimable-balances)
+15. [Quest 15: Liquidity Pools](#-quest-15-liquidity-pools)
 
 ## 🛠️ Prerequisites
 
