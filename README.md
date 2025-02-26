@@ -13,6 +13,12 @@ Welcome, adventurer! 🎒 Get ready to explore the amazing world of Stellar thro
 7. [Quest 7: Manage Data](#-quest-7-manage-data)
 8. [Quest 8: Set Options - Home Domain](#-quest-8-set-options---home-domain)
 9. [Quest 9: Set Options - Weights, Thresholds, and Signers](#%EF%B8%8F-quest-9-set-options---weights-thresholds-and-signers)
+10. [Quest 10: Set Flags](#quest-10-set-flags)
+11. [Quest 11: Bump Sequence](#quest-11-bump-sequence)
+12. [Quest 12: Sponsorships](#quest-12-sponsorships)
+13. [Quest 13: Claimable Balances](#quest-13-claimable-balances)
+14. [Quest 14: Clawbacks](#quest-14-clawbacks)
+15. [Quest 15: Liquidity Pools](#quest-15-liquidity-pools)
 
 ## 🛠️ Prerequisites
 
@@ -135,6 +141,79 @@ Welcome, adventurer! 🎒 Get ready to explore the amazing world of Stellar thro
 3. Set the Master Weight and Thresholds
 4. Add additional signers
 5. Sign and submit the transaction
+
+---
+
+## 🚩 Quest 10: Set Flags
+
+**Objective:** Issue an asset with the Authorization Required flag set and then revoke authorization using the Authorization Revocable flag.
+
+1. Navigate to the Build Transaction tab
+2. Set the Authorization Required and Authorization Revocable flags on the issuing account
+3. Create a trustline from the Quest Account to the issuing account
+4. Authorize the Quest Account to hold the asset
+5. Send the asset to the Quest Account
+6. Revoke the Quest Account’s authorization to hold the asset
+7. Sign and submit the transaction
+
+---
+
+## 🔀 Quest 11: Bump Sequence
+
+**Objective:** Increase the sequence number of the Quest Account.
+
+1. Navigate to the Build Transaction tab
+2. Use the Bump Sequence operation to increase the sequence number
+3. Sign and submit the transaction
+4. Create a new transaction starting from the bumped-to sequence number
+5. Sign and submit the new transaction
+
+---
+
+## 🤝 Quest 12: Sponsorships
+
+**Objective:** Set up a sponsored account with zero balance.
+
+1. Create a new account on the testnet (sponsoring account)
+2. Use the Begin Sponsoring Future Reserves operation
+3. Create the Quest Account with the sponsoring account paying the base reserve
+4. Use the End Sponsoring Future Reserves operation
+5. Sign and submit the transaction
+
+---
+
+## 🎁 Quest 13: Claimable Balances
+
+**Objective:** Create and claim a claimable balance.
+
+1. Create a new account on the testnet (Account 2)
+2. Use the Create Claimable Balance operation with a predicate
+3. Claim the claimable balance with Account 2
+4. Sign and submit the transactions
+
+---
+
+## 🦅 Quest 14: Clawbacks
+
+**Objective:** Issue an asset and then claw it back.
+
+1. Set the Clawback Enabled flag on the issuing account
+2. Issue the asset to another account
+3. Use the Clawback operation to claw back the asset
+4. Sign and submit the transactions
+
+---
+
+## 🌊 Quest 15: Liquidity Pools
+
+**Objective:** Create a liquidity pool, use it for a path payment, and withdraw from it.
+
+1. Create a new account on the testnet (Account 2)
+2. Establish trustlines for the assets and liquidity pool shares
+3. Create and deposit into the liquidity pool
+4. Use the liquidity pool for a path payment
+5. Withdraw from the liquidity pool
+6. Sign and submit the transactions
 
 ---
 
